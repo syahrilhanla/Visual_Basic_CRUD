@@ -1,0 +1,11 @@
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\D\program olahan\Sem_5\Visual_Basic\Experiment_Praktikum\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
